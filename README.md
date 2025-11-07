@@ -38,13 +38,9 @@ Uploaded `samsung-mobile-all-model-list-492.pdf` and queried:
 
 ## 🖼️ Architecture Overview
 
-```
-[PDF Upload] → [Text Chunking] → [Embedding via CPU] → [FAISS Vector Store]
-       ↓                                      ↓
-[User Query] → [Gemini API + Context Injection] → [Response]
-```
+<img width="956" height="782" alt="image" src="https://github.com/user-attachments/assets/71813ae5-b29f-42c0-bc02-bfc27dbe5611" />
 
----
+--
 
 ## 🧪 Local Setup
 
@@ -102,10 +98,10 @@ Built by [Suchit Gaikwad](https://github.com/suchit2025) — AI agent developer 
 
 ## 📸 Screenshots 
 
-> _Add screenshots of your Streamlit UI, PDF upload, and chat responses here to boost visual appeal._
 <img width="1864" height="776" alt="image" src="https://github.com/user-attachments/assets/4d8d78ad-ecb6-4c8b-9587-dae68d8616e9" />
 <img width="1866" height="719" alt="image" src="https://github.com/user-attachments/assets/07e07aa4-2a2a-4d02-a5f3-aecf5d55cab6" />
 
 
 ---
+
 
