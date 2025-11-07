@@ -100,7 +100,7 @@ Built by [Suchit Gaikwad](https://github.com/suchit2025) — AI agent developer 
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 > _Add screenshots of your Streamlit UI, PDF upload, and chat responses here to boost visual appeal._
 <img width="1864" height="776" alt="image" src="https://github.com/user-attachments/assets/4d8d78ad-ecb6-4c8b-9587-dae68d8616e9" />
@@ -108,3 +108,4 @@ Built by [Suchit Gaikwad](https://github.com/suchit2025) — AI agent developer 
 
 
 ---
+
